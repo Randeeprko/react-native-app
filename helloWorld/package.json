@@ -12,7 +12,7 @@
   "dependencies": {
     "ansi-regex": "^6.0.1",
     "logkitty": "^0.7.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "node-notifier": "^9.0.1",
     "path-parse": "^1.0.7",
     "react": "16.11.0",
