@@ -22,7 +22,6 @@
     "react-native-vector-icons": "^6.6.0",
     "set-value": "^4.1.0",
     "ws": "^7.5.0",
-    "xmldom": "^0.6.0",
     "y18n": "^5.0.5"
   },
   "devDependencies": {
